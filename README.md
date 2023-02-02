@@ -13,3 +13,7 @@ I am using VScode with these following extensions:
   MySQL: cweijan.vscode-mysql-client2
   Project Manager for Java: vscjava.vscode-java-dependency
   Spirng Boot Extension Pack: vmware.vscode-boot-dev-pack
+  
+ Also great tutorials to look at:
+  https://spring.io/guides/tutorials/react-and-spring-data-rest/
+  https://spring.io/guides/gs/accessing-data-mysql/
