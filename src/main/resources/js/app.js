@@ -1,51 +1,51 @@
 const React = require('react');
 const ReactDOM = require('react-dom');
 const Client = require('./client');
-
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {users: []};
+    this.state = {majreqs: []};
   }
 
   componentDidMount() {
-    Client({method: 'GET', path: '/demo/all'}).done(response =>{
-      this.setState({users: response.entity});
+    Client({method: 'GET', path: '/demo/all/majreq'}).done(response =>{
+      this.setState({majreqs: response.entity});
     });
   }
 
   render() {
-    return (<UserList users = {this.state.users}/>)
+    return (<MajReqList majreqs = {this.state.majreqs}/>)
   }
 }
 
-class UserList extends React.Component {
+class MajReqList extends React.Component {
   render() {
-    const users = this.props.users.map(user => <User key={user.id} user = {user}/>
+    const majreq = this.props.majreqs.map(majreq => <MajReq key={majreq.id} majreq = {majreq}/>
     );
     return (
-      
       <table>
         <tbody>
           <tr>
-            <th>id</th>
-            <th>name</th>
-            <th>email</th>
+            <th>Major ID</th>
+            <th>Major Name</th>
+            <th>Major Req Type</th>
+            <th>Class Name</th>
           </tr>
-          {users}
+          {majreq}
         </tbody>
       </table>
     )
   }
 }
 
-class User extends React.Component {
+class MajReq extends React.Component {
   render() {
     return (
       <tr>
-        <td>{this.props.user.id}</td>
-        <td>{this.props.user.name}</td>
-        <td>{this.props.user.email}</td>
+        <td>{this.props.majreq.majorId}</td>
+        <td>{this.props.majreq.major}</td>
+        <td>{this.props.majreq.majorReqs}</td>
+        <td>{this.props.majreq.className}</td>
       </tr>
     )
   }

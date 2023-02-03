@@ -1,0 +1,151 @@
+Major Id,Major,Elective ID,Elective Group,Num Req'd
+1001,Accounting,2010,Math-Elective,1
+1002,Administrative Office Technology,2010,Math-Elective,1
+1002,Administrative Office Technology,2001,AOT-Elective,1
+1002,Administrative Office Technology,2013,Social-Sciences-Elective,1
+1004,Business Administration - Marketing,2005,Economics-Elective,1
+1004,Business Administration - Marketing,2010,Math-Elective,1
+1004,Business Administration - Marketing,2008,Humanities-Elective,1
+1005,Business Administration - Small Business - Entrepreneurship,2005,Economics-Elective,1
+1005,Business Administration - Small Business - Entrepreneurship,2010,Math-Elective,1
+1005,Business Administration - Small Business - Entrepreneurship,2008,Humanities-Elective,1
+1038,Hospitality and Tourism Management,2010,Math-Elective,1
+1038,Hospitality and Tourism Management,2002,Communications-Elective,1
+1038,Hospitality and Tourism Management,2013,Social-Sciences-Elective,1
+1038,Hospitality and Tourism Management,2008,Humanities-Elective,1
+1038,Hospitality and Tourism Management,2007,Hospitality-Elective,2
+1040,Management - Human Resources,2005,Economics-Elective,1
+1040,Management - Human Resources,2010,Math-Elective,1
+1040,Management - Human Resources,2008,Humanities-Elective,1
+1041,Management - Leadership Development,2005,Economics-Elective,1
+1041,Management - Leadership Development,2010,Math-Elective,1
+1041,Management - Leadership Development,2008,Humanities-Elective,1
+1042,Management - Supply Chain Management,2005,Economics-Elective,1
+1042,Management - Supply Chain Management,2010,Math-Elective,1
+1042,Management - Supply Chain Management,2008,Humanities-Elective,1
+1050,Paralegal Degree,2010,Math-Elective,1
+1050,Paralegal Degree,2008,Humanities-Elective,1
+1050,Paralegal Degree,2013,Social-Sciences-Elective,1
+1007,Commercial Graphics - Animation,2010,Math-Elective,1
+1007,Commercial Graphics - Animation,2010,Math-Elective,1
+1007,Commercial Graphics - Animation,2013,Social-Sciences-Elective,1
+1008,Commercial Graphics - Digital Media,2010,Math-Elective,1
+1008,Commercial Graphics - Digital Media,2013,Social-Sciences-Elective,1
+1009,Commercial Graphics - Graphic Design,2010,Math-Elective,1
+1009,Commercial Graphics - Graphic Design,2013,Social-Sciences-Elective,1
+1011,Computer Technology - Computer Programming,2005,Economics-Elective,1
+1011,Computer Technology - Computer Programming,2008,Humanities-Elective,1
+1011,Computer Technology - Computer Programming,2010,Math-Elective,1
+1011,Computer Technology - Computer Programming,2012,Programming-Elective,4
+1012,Computer Technology - Information Systems Specialist,2010,Math-Elective,1
+1012,Computer Technology - Information Systems Specialist,2008,Humanities-Elective,1
+1012,Computer Technology - Information Systems Specialist,2005,Economics-Elective,1
+1012,Computer Technology - Information Systems Specialist,2009,InfoSys-Elective,4
+1015,Cybersecurity,2005,Economics-Elective,1
+1015,Cybersecurity,2010,Math-Elective,1
+1015,Cybersecurity,2004,Cybersecurity-Elective,1
+1015,Cybersecurity,2008,Humanities-Elective,1
+1035,Health Information Management,2010,Math-Elective,1
+1035,Health Information Management,2008,Humanities-Elective,1
+1048,Network Systems Management,2005,Economics-Elective,1
+1048,Network Systems Management,2010,Math-Elective,1
+1048,Network Systems Management,2011,Network-Systems-Management-Elective,2
+1048,Network Systems Management,2008,Humanities-Elective,1
+1013,Criminal Justice,2003,Criminal-Justice-Elective,7
+1013,Criminal Justice,2008,Humanities-Elective,1
+1013,Criminal Justice,2010,Math-Elective,1
+1013,Criminal Justice,2010,Math-Elective,1
+1013,Criminal Justice,2013,Social-Sciences-Elective,1
+1036,Homeland Security Management,2008,Humanities-Elective,1
+1036,Homeland Security Management,2010,Math-Elective,1
+1014,Culinary Arts Technology,2013,Social-Sciences-Elective,1
+1014,Culinary Arts Technology,2008,Humanities-Elective,1
+1014,Culinary Arts Technology,2010,Math-Elective,1
+1031,General Technology - Marine Stewardship,2008,Humanities-Elective,1
+1031,General Technology - Marine Stewardship,2013,Social-Sciences-Elective,1
+1031,General Technology - Marine Stewardship,2010,Math-Elective,1
+1017,Early Care and Education - Child Care Professional,2010,Math-Elective,1
+1017,Early Care and Education - Child Care Professional,2008,Humanities-Elective,1
+1018,Early Care and Education - Inclusive Care,2010,Math-Elective,1
+1018,Early Care and Education - Inclusive Care,2008,Humanities-Elective,1
+1019,Early Care and Education - School-Age and Youth Development,2010,Math-Elective,1
+1019,Early Care and Education - School-Age and Youth Development,2008,Humanities-Elective,1
+1003,Aircraft Maintenance Technology,2008,Humanities-Elective,1
+1003,Aircraft Maintenance Technology,2010,Math-Elective,1
+1003,Aircraft Maintenance Technology,2013,Social-Sciences-Elective,1
+1010,Commercial Graphics - Photography,2010,Math-Elective,1
+1010,Commercial Graphics - Photography,2013,Social-Sciences-Elective,1
+1022,General Technology - Air Conditioning and Refrigeration Mechanics,2005,Economics-Elective,1
+1022,General Technology - Air Conditioning and Refrigeration Mechanics,2002,Communications-Elective,1
+1022,General Technology - Air Conditioning and Refrigeration Mechanics,2008,Humanities-Elective,1
+1022,General Technology - Air Conditioning and Refrigeration Mechanics,2010,Math-Elective,1
+1023,General Technology - Automotive Technology,2005,Economics-Elective,1
+1023,General Technology - Automotive Technology,2002,Communications-Elective,1
+1023,General Technology - Automotive Technology,2008,Humanities-Elective,1
+1023,General Technology - Automotive Technology,2010,Math-Elective,1
+1024,General Technology - Avionics Maintenance Technology,2008,Humanities-Elective,1
+1024,General Technology - Avionics Maintenance Technology,2010,Math-Elective,1
+1024,General Technology - Avionics Maintenance Technology,2013,Social-Sciences-Elective,1
+1025,General Technology - Electrical Line Worker Technology,2005,Economics-Elective,1
+1025,General Technology - Electrical Line Worker Technology,2002,Communications-Elective,1
+1025,General Technology - Electrical Line Worker Technology,2008,Humanities-Elective,1
+1025,General Technology - Electrical Line Worker Technology,2010,Math-Elective,1
+1028,General Technology - Industrial Maintenance,2002,Communications-Elective,1
+1028,General Technology - Industrial Maintenance,2008,Humanities-Elective,1
+1028,General Technology - Industrial Maintenance,2010,Math-Elective,1
+1028,General Technology - Industrial Maintenance,2013,Social-Sciences-Elective,1
+1029,General Technology - Machine Tool Technology,2002,Communications-Elective,1
+1029,General Technology - Machine Tool Technology,2008,Humanities-Elective,1
+1029,General Technology - Machine Tool Technology,2010,Math-Elective,1
+1029,General Technology - Machine Tool Technology,2013,Social-Sciences-Elective,1
+1030,General Technology - Marine Engineering Technology,2002,Communications-Elective,1
+1030,General Technology - Marine Engineering Technology,2008,Humanities-Elective,1
+1030,General Technology - Marine Engineering Technology,2013,Social-Sciences-Elective,1
+1032,General Technology - Mechatronics,2008,Humanities-Elective,1
+1032,General Technology - Mechatronics,2013,Social-Sciences-Elective,1
+1034,General Technology - Welding,2002,Communications-Elective,1
+1034,General Technology - Welding,2008,Humanities-Elective,1
+1034,General Technology - Welding,2010,Math-Elective,1
+1034,General Technology - Welding,2013,Social-Sciences-Elective,1
+1037,Horticulture Technology,2008,Humanities-Elective,1
+1037,Horticulture Technology,2010,Math-Elective,1
+1037,Horticulture Technology,2013,Social-Sciences-Elective,1
+1037,Horticulture Technology,2006,Horticulture-Elective,1
+1044,Media Arts Production - Film Production,2013,Social-Sciences-Elective,1
+1044,Media Arts Production - Film Production,2010,Math-Elective,1
+1045,Media Arts Production - Post Production,2013,Social-Sciences-Elective,1
+1045,Media Arts Production - Post Production,2010,Math-Elective,1
+1046,Media Arts Production - TV and Media Production,2013,Social-Sciences-Elective,1
+1046,Media Arts Production - TV and Media Production,2010,Math-Elective,1
+1006,Civil Engineering Technology,2002,Communications-Elective,1
+1006,Civil Engineering Technology,2008,Humanities-Elective,1
+1006,Civil Engineering Technology,2013,Social-Sciences-Elective,1
+1020,Electronics Engineering Technology,2008,Humanities-Elective,1
+1020,Electronics Engineering Technology,2013,Social-Sciences-Elective,1
+1020,Electronics Engineering Technology,2002,Communications-Elective,1
+1026,General Technology - Engineering Design Graphics,2005,Economics-Elective,1
+1026,General Technology - Engineering Design Graphics,2008,Humanities-Elective,1
+1043,Mechanical Engineering Technology,2002,Communications-Elective,1
+1043,Mechanical Engineering Technology,2008,Humanities-Elective,1
+1043,Mechanical Engineering Technology,2013,Social-Sciences-Elective,1
+1016,Dental Hygiene,2008,Humanities-Elective,1
+1016,Dental Hygiene,2010,Math-Elective,1
+1016,Dental Hygiene,2002,Communications-Elective,1
+1021,Emergency Medical Technology,2010,Math-Elective,1
+1021,Emergency Medical Technology,2008,Humanities-Elective,1
+1027,General Technology - Expanded Duty Dental Assisting,2010,Math-Elective,1
+1027,General Technology - Expanded Duty Dental Assisting,2008,Humanities-Elective,1
+1033,General Technology - Medical Assisting,2010,Math-Elective,1
+1033,General Technology - Medical Assisting,2008,Humanities-Elective,1
+1039,Human Services,2008,Humanities-Elective,1
+1039,Human Services,2010,Math-Elective,1
+1047,Medical Laboratory Technology,2010,Math-Elective,1
+1047,Medical Laboratory Technology,2008,Humanities-Elective,1
+1049,Occupational Therapy Assistant,2010,Math-Elective,1
+1051,Physical Therapist Assistant,2010,Math-Elective,1
+1051,Physical Therapist Assistant,2008,Humanities-Elective,1
+1052,Radiologic Technology,2010,Math-Elective,1
+1052,Radiologic Technology,2002,Communications-Elective,1
+1052,Radiologic Technology,2008,Humanities-Elective,1
+1053,Respiratory Care,2008,Humanities-Elective,1
+1054,Veterinary Technology,2010,Math-Elective,1

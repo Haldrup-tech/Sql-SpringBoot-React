@@ -1,0 +1,1075 @@
+Major ID,Major, Requirement Type, Course
+1001,Accounting, GenEd Requirements, ECO-210
+1001,Accounting, GenEd Requirements, ENG-101
+1001,Accounting, GenEd Requirements, ENG-102
+1001,Accounting, GenEd Requirements, ENG-260
+1001,Accounting, Major Requirements, ACC-102
+1001,Accounting, Major Requirements, ACC-111
+1001,Accounting, Major Requirements, ACC-112
+1001,Accounting, Major Requirements, ACC-124
+1001,Accounting, Major Requirements, ACC-150
+1001,Accounting, Major Requirements, ACC-201
+1001,Accounting, Major Requirements, ACC-202
+1001,Accounting, Major Requirements, ACC-203
+1001,Accounting, Major Requirements, ACC-224
+1001,Accounting, Major Requirements, ACC-226
+1001,Accounting, Major Requirements, ACC-240
+1001,Accounting, Major Requirements, ACC-245
+1001,Accounting, Major Requirements, ACC-260
+1001,Accounting, Major Requirements, ACC-265
+1001,Accounting, Major Requirements, ACC-246
+1001,Accounting, Major Requirements, ACC-275
+1001,Accounting, Major Requirements, BUS-121
+1002,Administrative Office Technology, GenEd Requirements, ENG-101
+1002,Administrative Office Technology, GenEd Requirements, IDS-109
+1002,Administrative Office Technology, GenEd Requirements, PHI-110
+1002,Administrative Office Technology, Major Requirements, ACC-111
+1002,Administrative Office Technology, Major Requirements, AOT-105
+1002,Administrative Office Technology, Major Requirements, AOT-110
+1002,Administrative Office Technology, Major Requirements, AOT-134
+1002,Administrative Office Technology, Major Requirements, AOT-161
+1002,Administrative Office Technology, Major Requirements, AOT-252
+1002,Administrative Office Technology, Major Requirements, AOT-251
+1002,Administrative Office Technology, Major Requirements, AOT-256
+1002,Administrative Office Technology, Major Requirements, CPT-172
+1002,Administrative Office Technology, Major Requirements, CPT-174
+1002,Administrative Office Technology, Major Requirements, CPT-179
+1002,Administrative Office Technology, Major Requirements, CPT-270
+1002,Administrative Office Technology, Major Requirements, CPT-290
+1002,Administrative Office Technology, Major Requirements, MGT-270
+1002,Administrative Office Technology, Major Requirements, MKT-130
+1004,Business Administration - Marketing, GenEd Requirements, IDS-109
+1004,Business Administration - Marketing, Major Requirements, ACC-111
+1004,Business Administration - Marketing, Major Requirements, BAF-101
+1004,Business Administration - Marketing, Major Requirements, BUS-101
+1004,Business Administration - Marketing, Major Requirements, BUS-121
+1004,Business Administration - Marketing, Major Requirements, BUS-220
+1004,Business Administration - Marketing, Major Requirements, CPT-282
+1004,Business Administration - Marketing, Major Requirements, MGT-101
+1004,Business Administration - Marketing, Major Requirements, MGT-255
+1004,Business Administration - Marketing, Major Requirements, MGT-270
+1004,Business Administration - Marketing, Major Requirements, MKT-101
+1004,Business Administration - Marketing, Major Requirements, MKT-130
+1004,Business Administration - Marketing, Major Requirements, MKT-140
+1004,Business Administration - Marketing, Major Requirements, MKT-245
+1004,Business Administration - Marketing, Major Requirements, MKT-250
+1004,Business Administration - Marketing, Major Requirements, MKT-260
+1005,Business Administration - Small Business - Entrepreneurship, GenEd Requirements, ENG-101
+1005,Business Administration - Small Business - Entrepreneurship, GenEd Requirements, IDS-109
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, ACC-111
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, BAF-101
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, BUS-101
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, BUS-121
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, BUS-220
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, BUS-250
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, CPT-174
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, CPT-282
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, MGT-101
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, MGT-120
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, MGT-201
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, MGT-255
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, MGT-270
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, MKT-101
+1005,Business Administration - Small Business - Entrepreneurship, Major Requirements, MKT-260
+1038,Hospitality and Tourism Management, GenEd Requirements, ENG-101
+1038,Hospitality and Tourism Management, Major Requirements, HOS-132
+1038,Hospitality and Tourism Management, Major Requirements, HOS-140
+1038,Hospitality and Tourism Management, Major Requirements, HOS-146
+1038,Hospitality and Tourism Management, Major Requirements, HOS-150
+1038,Hospitality and Tourism Management, Major Requirements, HOS-157
+1038,Hospitality and Tourism Management, Major Requirements, HOS-159
+1038,Hospitality and Tourism Management, Major Requirements, HOS-160
+1038,Hospitality and Tourism Management, Major Requirements, HOS-161
+1038,Hospitality and Tourism Management, Major Requirements, HOS-164
+1038,Hospitality and Tourism Management, Major Requirements, HOS-245
+1038,Hospitality and Tourism Management, Major Requirements, HOS-250
+1038,Hospitality and Tourism Management, Major Requirements, HOS-256
+1038,Hospitality and Tourism Management, Major Requirements, HOS-262
+1038,Hospitality and Tourism Management, Major Requirements, HOS-265
+1038,Hospitality and Tourism Management, Major Requirements, HOS-272
+1038,Hospitality and Tourism Management, Major Requirements, HOS-294
+1040,Management - Human Resources, GenEd Requirements, ENG-101
+1040,Management - Human Resources, GenEd Requirements, IDS-109
+1040,Management - Human Resources, Major Requirements, ACC-111
+1040,Management - Human Resources, Major Requirements, ACC-150
+1040,Management - Human Resources, Major Requirements, BAF-101
+1040,Management - Human Resources, Major Requirements, BUS-101
+1040,Management - Human Resources, Major Requirements, BUS-121
+1040,Management - Human Resources, Major Requirements, BUS-136
+1040,Management - Human Resources, Major Requirements, BUS-220
+1040,Management - Human Resources, Major Requirements, CPT-282
+1040,Management - Human Resources, Major Requirements, MGT-101
+1040,Management - Human Resources, Major Requirements, MGT-201
+1040,Management - Human Resources, Major Requirements, MGT-210
+1040,Management - Human Resources, Major Requirements, MGT-240
+1040,Management - Human Resources, Major Requirements, MGT-255
+1040,Management - Human Resources, Major Requirements, MGT-270
+1040,Management - Human Resources, Major Requirements, MKT-101
+1041,Management - Leadership Development, GenEd Requirements, ENG-101
+1041,Management - Leadership Development, GenEd Requirements, IDS-109
+1041,Management - Leadership Development, Major Requirements, ACC-111
+1041,Management - Leadership Development, Major Requirements, BAF-101
+1041,Management - Leadership Development, Major Requirements, BUS-101
+1041,Management - Leadership Development, Major Requirements, BUS-121
+1041,Management - Leadership Development, Major Requirements, BUS-220
+1041,Management - Leadership Development, Major Requirements, BUS-250
+1041,Management - Leadership Development, Major Requirements, CPT-282
+1041,Management - Leadership Development, Major Requirements, MGT-101
+1041,Management - Leadership Development, Major Requirements, MGT-201
+1041,Management - Leadership Development, Major Requirements, MGT-210
+1041,Management - Leadership Development, Major Requirements, MGT-235
+1041,Management - Leadership Development, Major Requirements, MGT-240
+1041,Management - Leadership Development, Major Requirements, MGT-255
+1041,Management - Leadership Development, Major Requirements, MGT-270
+1041,Management - Leadership Development, Major Requirements, MKT-101
+1042,Management - Supply Chain Management, GenEd Requirements, ENG-101
+1042,Management - Supply Chain Management, GenEd Requirements, IDS-109
+1042,Management - Supply Chain Management, Major Requirements, ACC-111
+1042,Management - Supply Chain Management, Major Requirements, BUS-101
+1042,Management - Supply Chain Management, Major Requirements, BUS-121
+1042,Management - Supply Chain Management, Major Requirements, BUS-220
+1042,Management - Supply Chain Management, Major Requirements, LOG-125
+1042,Management - Supply Chain Management, Major Requirements, LOG-215
+1042,Management - Supply Chain Management, Major Requirements, LOG-235
+1042,Management - Supply Chain Management, Major Requirements, LOG-240
+1042,Management - Supply Chain Management, Major Requirements, MGT-101
+1042,Management - Supply Chain Management, Major Requirements, MGT-201
+1042,Management - Supply Chain Management, Major Requirements, MGT-235
+1042,Management - Supply Chain Management, Major Requirements, MGT-240
+1042,Management - Supply Chain Management, Major Requirements, MGT-255
+1042,Management - Supply Chain Management, Major Requirements, MGT-270
+1042,Management - Supply Chain Management, Major Requirements, TRL-106
+1050,Paralegal Degree, GenEd Requirements, ENG-101
+1050,Paralegal Degree, GenEd Requirements, IDS-109
+1050,Paralegal Degree, Major Requirements, BUS-121
+1050,Paralegal Degree, Major Requirements, CRJ-101
+1050,Paralegal Degree, Major Requirements, LEG-270
+1050,Paralegal Degree, Major Requirements, LEG-244
+1050,Paralegal Degree, Major Requirements, CRJ-115
+1050,Paralegal Degree, Major Requirements, LEG-234
+1050,Paralegal Degree, Major Requirements, ENG-102
+1050,Paralegal Degree, Major Requirements, LEG-120
+1050,Paralegal Degree, Major Requirements, LEG-132
+1050,Paralegal Degree, Major Requirements, LEG-135
+1050,Paralegal Degree, Major Requirements, LEG-201
+1050,Paralegal Degree, Major Requirements, LEG-213
+1050,Paralegal Degree, Major Requirements, LEG-214
+1050,Paralegal Degree, Major Requirements, LEG-230
+1050,Paralegal Degree, Major Requirements, LEG-232
+1050,Paralegal Degree, Major Requirements, LEG-233
+1050,Paralegal Degree, Major Requirements, LEG-240
+1050,Paralegal Degree, Major Requirements, LEG-242
+1050,Paralegal Degree, Major Requirements, SPC-205
+1050,Paralegal Degree, Major Requirements, SPC-209
+1007,Commercial Graphics - Animation, GenEd Requirements, ART-101
+1007,Commercial Graphics - Animation, GenEd Requirements, ART-105
+1007,Commercial Graphics - Animation, GenEd Requirements, ART-210
+1007,Commercial Graphics - Animation, GenEd Requirements, ENG-101
+1007,Commercial Graphics - Animation, Major Requirements, ART-111
+1007,Commercial Graphics - Animation, Major Requirements, ARV-121
+1007,Commercial Graphics - Animation, Major Requirements, ARV-123
+1007,Commercial Graphics - Animation, Major Requirements, ARV-125
+1007,Commercial Graphics - Animation, Major Requirements, ARV-136
+1007,Commercial Graphics - Animation, Major Requirements, ARV-217
+1007,Commercial Graphics - Animation, Major Requirements, ARV-280
+1007,Commercial Graphics - Animation, Major Requirements, MAP-110
+1007,Commercial Graphics - Animation, Major Requirements, ARV-219
+1007,Commercial Graphics - Animation, Major Requirements, MAP-190
+1007,Commercial Graphics - Animation, Major Requirements, MAP-191
+1007,Commercial Graphics - Animation, Major Requirements, MAP-192
+1007,Commercial Graphics - Animation, Major Requirements, MAP-193
+1007,Commercial Graphics - Animation, Major Requirements, MAP-194
+1007,Commercial Graphics - Animation, Major Requirements, MAP-195
+1007,Commercial Graphics - Animation, Major Requirements, MAP-198
+1008,Commercial Graphics - Digital Media, GenEd Requirements, ART-101
+1008,Commercial Graphics - Digital Media, GenEd Requirements, ART-105
+1008,Commercial Graphics - Digital Media, GenEd Requirements, ART-107
+1008,Commercial Graphics - Digital Media, GenEd Requirements, ART-108
+1008,Commercial Graphics - Digital Media, GenEd Requirements, ART-210
+1008,Commercial Graphics - Digital Media, GenEd Requirements, ENG-101
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-110
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-121
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-123
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-136
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-211
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-212
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-217
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-219
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-227
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-228
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-229
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-230
+1008,Commercial Graphics - Digital Media, Major Requirements, ENG-263
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-242
+1008,Commercial Graphics - Digital Media, Major Requirements, ARV-280
+1008,Commercial Graphics - Digital Media, Major Requirements, CGC-106
+1009,Commercial Graphics - Graphic Design, GenEd Requirements, ART-101
+1009,Commercial Graphics - Graphic Design, GenEd Requirements, ART-210
+1009,Commercial Graphics - Graphic Design, GenEd Requirements, ENG-101
+1009,Commercial Graphics - Graphic Design, Major Requirements, ART-111
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-110
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-121
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-123
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-136
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-230
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-162
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-210
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-212
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-217
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-219
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-261
+1009,Commercial Graphics - Graphic Design, Major Requirements, ARV-280
+1009,Commercial Graphics - Graphic Design, Major Requirements, CGC-106
+1009,Commercial Graphics - Graphic Design, Major Requirements, CGC-110
+1009,Commercial Graphics - Graphic Design, Major Requirements, CGC-210
+1011,Computer Technology - Computer Programming, Core Requirements, ENG-101
+1011,Computer Technology - Computer Programming, Core Requirements, IDS-109
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-114
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-162
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-167
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-187
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-202
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-237
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-242
+1011,Computer Technology - Computer Programming, Major Requirements, CPT-275
+1011,Computer Technology - Computer Programming, Major Requirements, IST-166
+1011,Computer Technology - Computer Programming, Major Requirements, IST-190
+1011,Computer Technology - Computer Programming, Major Requirements, IST-239
+1012,Computer Technology - Information Systems Specialist, GenEd Requirements, ENG-101
+1012,Computer Technology - Information Systems Specialist, GenEd Requirements, IDS-109
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-114
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-162
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-172
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-174
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-180
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-209
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-242
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-264
+1012,Computer Technology - Information Systems Specialist, Major Requirements, CPT-282
+1012,Computer Technology - Information Systems Specialist, Major Requirements, IST-166
+1012,Computer Technology - Information Systems Specialist, Major Requirements, IST-190
+1015,Cybersecurity, General Education Requirements, ENG-101
+1015,Cybersecurity, General Education Requirements, IDS-109
+1015,Cybersecurity, Major Requirements, CPT-180
+1015,Cybersecurity, Major Requirements, CPT-282
+1015,Cybersecurity, Major Requirements, CRJ-232
+1015,Cybersecurity, Major Requirements, CRJ-233
+1015,Cybersecurity, Major Requirements, IST-165
+1015,Cybersecurity, Major Requirements, IST-166
+1015,Cybersecurity, Major Requirements, IST-190
+1015,Cybersecurity, Major Requirements, IST-191
+1015,Cybersecurity, Major Requirements, IST-201
+1015,Cybersecurity, Major Requirements, IST-202
+1015,Cybersecurity, Major Requirements, IST-268
+1015,Cybersecurity, Major Requirements, IST-291
+1015,Cybersecurity, Major Requirements, IST-292
+1015,Cybersecurity, Major Requirements, IST-293
+1015,Cybersecurity, Major Requirements, IST-294
+1035,Health Information Management, GenEd Requirements, ENG-101
+1035,Health Information Management, GenEd Requirements, IDS-109
+1035,Health Information Management, GenEd Requirements, PSY-201
+1035,Health Information Management, Major Requirements, AHS-104
+1035,Health Information Management, Major Requirements, BIO-112
+1035,Health Information Management, Major Requirements, HIM-101
+1035,Health Information Management, Major Requirements, HIM-110
+1035,Health Information Management, Major Requirements, HIM-120
+1035,Health Information Management, Major Requirements, HIM-130
+1035,Health Information Management, Major Requirements, HIM-135
+1035,Health Information Management, Major Requirements, HIM-140
+1035,Health Information Management, Major Requirements, HIM-141
+1035,Health Information Management, Major Requirements, HIM-163
+1035,Health Information Management, Major Requirements, HIM-164
+1035,Health Information Management, Major Requirements, HIM-200
+1035,Health Information Management, Major Requirements, HIM-215
+1035,Health Information Management, Major Requirements, HIM-216
+1035,Health Information Management, Major Requirements, HIM-225
+1035,Health Information Management, Major Requirements, HIM-227
+1035,Health Information Management, Major Requirements, HIM-235
+1035,Health Information Management, Major Requirements, HIM-265
+1035,Health Information Management, Major Requirements, HIM-266
+1048,Network Systems Management, GenEd Requirements, ENG-101
+1048,Network Systems Management, GenEd Requirements, IDS-109
+1048,Network Systems Management, Major Requirements, CPT-180
+1048,Network Systems Management, Major Requirements, CPT-209
+1048,Network Systems Management, Major Requirements, IST-165
+1048,Network Systems Management, Major Requirements, IST-166
+1048,Network Systems Management, Major Requirements, IST-190
+1048,Network Systems Management, Major Requirements, IST-198
+1048,Network Systems Management, Major Requirements, IST-201
+1048,Network Systems Management, Major Requirements, IST-202
+1048,Network Systems Management, Major Requirements, IST-253
+1048,Network Systems Management, Major Requirements, IST-260
+1048,Network Systems Management, Major Requirements, IST-293
+1048,Network Systems Management, Major Requirements, IST-298
+1048,Network Systems Management, Major Requirements, MGT-270
+1013,Criminal Justice, GenEd Requirements, ENG-101
+1013,Criminal Justice, GenEd Requirements, IDS-109
+1013,Criminal Justice, Major Requirements, CRJ-101
+1013,Criminal Justice, Major Requirements, CRJ-115
+1013,Criminal Justice, Major Requirements, CRJ-125
+1013,Criminal Justice, Major Requirements, CRJ-126
+1013,Criminal Justice, Major Requirements, CRJ-130
+1013,Criminal Justice, Major Requirements, CRJ-220
+1013,Criminal Justice, Major Requirements, BUS-121
+1013,Criminal Justice, Major Requirements, CRJ-222
+1013,Criminal Justice, Major Requirements, CRJ-230
+1013,Criminal Justice, Major Requirements, CRJ-236
+1013,Criminal Justice, Major Requirements, CRJ-242
+1036,Homeland Security Management, GenEd Requirements, ENG-101
+1036,Homeland Security Management, GenEd Requirements, IDS-109
+1036,Homeland Security Management, GenEd Requirements, PSC-201
+1036,Homeland Security Management, GenEd Requirements, PSC-215
+1036,Homeland Security Management, Major Requirements, CRJ-120
+1036,Homeland Security Management, Major Requirements, CRJ-126
+1036,Homeland Security Management, Major Requirements, CRJ-222
+1036,Homeland Security Management, Major Requirements, ENG-102
+1036,Homeland Security Management, Major Requirements, HSM-101
+1036,Homeland Security Management, Major Requirements, HSM-103
+1036,Homeland Security Management, Major Requirements, HSM-104
+1036,Homeland Security Management, Major Requirements, HSM-201
+1036,Homeland Security Management, Major Requirements, HSM-202
+1036,Homeland Security Management, Major Requirements, HSM-203
+1036,Homeland Security Management, Major Requirements, HSM-204
+1036,Homeland Security Management, Major Requirements, HSM-205
+1014,Culinary Arts Technology, GenEd Requirements, IDS-109
+1014,Culinary Arts Technology, Major Requirements, BKP-101
+1014,Culinary Arts Technology, Major Requirements, BKP-102
+1014,Culinary Arts Technology, Major Requirements, CUL-104
+1014,Culinary Arts Technology, Major Requirements, CUL-105
+1014,Culinary Arts Technology, Major Requirements, CUL-112
+1014,Culinary Arts Technology, Major Requirements, CUL-118
+1014,Culinary Arts Technology, Major Requirements, CUL-123
+1014,Culinary Arts Technology, Major Requirements, CUL-128
+1014,Culinary Arts Technology, Major Requirements, CUL-129
+1014,Culinary Arts Technology, Major Requirements, CUL-171
+1014,Culinary Arts Technology, Major Requirements, CUL-215
+1014,Culinary Arts Technology, Major Requirements, CUL-216
+1014,Culinary Arts Technology, Major Requirements, CUL-236
+1014,Culinary Arts Technology, Major Requirements, CUL-238
+1014,Culinary Arts Technology, Major Requirements, CUL-277
+1014,Culinary Arts Technology, Major Requirements, CUL-280
+1014,Culinary Arts Technology, Communication, ENG-101
+1014,Culinary Arts Technology, Communication, SPC-205
+1031,General Technology - Marine Stewardship, GenEd Requirements, IDS-109
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, BKP-101
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, BKP-102
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, BKP-109
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-104
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-105
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-112
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-118
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-123
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-171
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-215
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-216
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-178
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-180
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-186
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-187
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-188
+1031,General Technology - Marine Stewardship, Primary Technical Specialty Requirements, CUL-242
+1031,General Technology - Marine Stewardship, Secondary Technical Specialty Requirements, CUL-001
+1031,General Technology - Marine Stewardship, Secondary Technical Specialty Requirements, CUL-277
+1031,General Technology - Marine Stewardship, Secondary Technical Specialty Requirements, CUL-297
+1031,General Technology - Marine Stewardship, Secondary Technical Specialty Requirements, MNT-001
+1031,General Technology - Marine Stewardship, Secondary Technical Specialty Requirements, FST-001
+1031,General Technology - Marine Stewardship, Communication, ENG-101
+1031,General Technology - Marine Stewardship, Communication, SPC-205
+1017,Early Care and Education - Child Care Professional, GenEd Requirements, ENG-101
+1017,Early Care and Education - Child Care Professional, GenEd Requirements, IDS-109
+1017,Early Care and Education - Child Care Professional, GenEd Requirements, PSY-201
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-101
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-102
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-105
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-107
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-108
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-109
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-131
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-132
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-133
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-135
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-140
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-201
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-203
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-237
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-243
+1017,Early Care and Education - Child Care Professional, Major Requirements, ECD-252
+1017,Early Care and Education - Child Care Professional, Major Requirements, EDU-241
+1018,Early Care and Education - Inclusive Care, GenEd Requirements, ENG-101
+1018,Early Care and Education - Inclusive Care, GenEd Requirements, IDS-109
+1018,Early Care and Education - Inclusive Care, GenEd Requirements, PSY-201
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-101
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-102
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-107
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-108
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-131
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-132
+1018,Early Care and Education - Inclusive Care, Major Requirements, EDU-205
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-133
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-255
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-135
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-140
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-200
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-260
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-201
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-203
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-205
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-259
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-207
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-243
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-246
+1018,Early Care and Education - Inclusive Care, Major Requirements, ECD-254
+1018,Early Care and Education - Inclusive Care, Major Requirements, EDU-241
+1019,Early Care and Education - School-Age and Youth Development, GenEd Requirements, ENG-101
+1019,Early Care and Education - School-Age and Youth Development, GenEd Requirements, IDS-109
+1019,Early Care and Education - School-Age and Youth Development, GenEd Requirements, PSY-201
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, ECD-101
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, ECD-102
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, ECD-105
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, ECD-140
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, ECD-203
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, EDU-241
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-101
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-200
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-201
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-202
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-203
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-204
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-205
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-206
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-207
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-208
+1019,Early Care and Education - School-Age and Youth Development, Major Requirements, SAC-209
+1003,Aircraft Maintenance Technology, GenEd Requirements, ENG-101
+1003,Aircraft Maintenance Technology, GenEd Requirements, IDS-109
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-101
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-102
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-105
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-110
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-114
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-115
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-120
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-125
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-135
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-145
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-150
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-155
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-160
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-165
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-167
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-170
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-172
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-174
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-201
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-205
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-210
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-212
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-220
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-226
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-234
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-240
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-245
+1003,Aircraft Maintenance Technology, Major Requirements, ACM-250
+1010,Commercial Graphics - Photography, General Education Requirements, ART-101
+1010,Commercial Graphics - Photography, General Education Requirements, ART-105
+1010,Commercial Graphics - Photography, General Education Requirements, ART-107
+1010,Commercial Graphics - Photography, General Education Requirements, ART-108
+1010,Commercial Graphics - Photography, General Education Requirements, ART-210
+1010,Commercial Graphics - Photography, General Education Requirements, ENG-101
+1010,Commercial Graphics - Photography, Major Requirements, ART-106
+1010,Commercial Graphics - Photography, Major Requirements, ARV-114
+1010,Commercial Graphics - Photography, Major Requirements, ARV-116
+1010,Commercial Graphics - Photography, Major Requirements, ARV-275
+1010,Commercial Graphics - Photography, Major Requirements, ARV-121
+1010,Commercial Graphics - Photography, Major Requirements, ARV-164
+1010,Commercial Graphics - Photography, Major Requirements, ARV-212
+1010,Commercial Graphics - Photography, Major Requirements, ARV-213
+1010,Commercial Graphics - Photography, Major Requirements, ARV-214
+1010,Commercial Graphics - Photography, Major Requirements, ARV-216
+1010,Commercial Graphics - Photography, Major Requirements, ARV-217
+1010,Commercial Graphics - Photography, Major Requirements, ARV-219
+1010,Commercial Graphics - Photography, Major Requirements, ARV-230
+1010,Commercial Graphics - Photography, Major Requirements, ARV-232
+1010,Commercial Graphics - Photography, Major Requirements, ARV-233
+1010,Commercial Graphics - Photography, Major Requirements, ARV-280
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, GenEd Requirements, ENG-101
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, GenEd Requirements, PSY-201
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, First Year Experience, IDS-109
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, First Year Experience, EGR-110
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-106
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-108
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-109
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-111
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-120
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-150
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-210
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, ACR-224
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, IMT-124
+1022,General Technology - Air Conditioning and Refrigeration Mechanics, Primary Technical Specialty, IMT-151
+1023,General Technology - Automotive Technology, GenEd Requirements, ENG-101
+1023,General Technology - Automotive Technology, GenEd Requirements, PSY-201
+1023,General Technology - Automotive Technology, First-Year Experience Requirement, EGR-110
+1023,General Technology - Automotive Technology, First-Year Experience Requirement, IDS-109
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-103
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-111
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-116
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-122
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-131
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-133
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-149
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-152
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-159
+1023,General Technology - Automotive Technology, Primary Technical Specialty, AUT-241
+1024,General Technology - Avionics Maintenance Technology, GenEd Requirements, ENG-101
+1024,General Technology - Avionics Maintenance Technology, GenEd Requirements, IDS-109
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-101
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-105
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-110
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-115
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-120
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-125
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-140
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-145
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-150
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-155
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-160
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-165
+1024,General Technology - Avionics Maintenance Technology, Primary Technical Specialty, AVT-170
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option One Aircraft Maintenance, ACM-101
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option One Aircraft Maintenance, ACM-102
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option One Aircraft Maintenance, ACM-110
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option One Aircraft Maintenance, ACM-115
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option One Aircraft Maintenance, ACM-120
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option Two Aircraft Assembly, AMF-109
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option Two Aircraft Assembly, AMF-110
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option Two Aircraft Assembly, AMF-132
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option Two Aircraft Assembly, AMF-137
+1024,General Technology - Avionics Maintenance Technology, Secondary Technical Specialty - Option Two Aircraft Assembly, AMF-142
+1025,General Technology - Electrical Line Worker Technology, GenEd Requirements, ENG-101
+1025,General Technology - Electrical Line Worker Technology, GenEd Requirements, PSY-201
+1025,General Technology - Electrical Line Worker Technology, First Year Experience Requirement, EGR-110
+1025,General Technology - Electrical Line Worker Technology, First Year Experience Requirement, IDS-109
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-111
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-112
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-114
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-211
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-231
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-115
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-116
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-117
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-212
+1025,General Technology - Electrical Line Worker Technology, Primary Technical Specialty, ELW-221
+1025,General Technology - Electrical Line Worker Technology, Secondary Technical Specialty, CWE-114
+1025,General Technology - Electrical Line Worker Technology, Secondary Technical Specialty, MGT-101
+1025,General Technology - Electrical Line Worker Technology, Secondary Technical Specialty, MGT-255
+1025,General Technology - Electrical Line Worker Technology, Additional Requirements, ELW-110
+1025,General Technology - Electrical Line Worker Technology, Additional Requirements, ELW-113
+1028,General Technology - Industrial Maintenance, GenEd Requirements, ENG-101
+1028,General Technology - Industrial Maintenance, First Year Experience Requirement, EGR-110
+1028,General Technology - Industrial Maintenance, First Year Experience Requirement, IDS-109
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IET-223
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-106
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-104
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-124
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-132
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-133
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-140
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-151
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-160
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-161
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, IMT-163
+1028,General Technology - Industrial Maintenance, Primary Technical Specialty Requirements, MGT-101
+1029,General Technology - Machine Tool Technology, GenEd Requirements, ENG-101
+1029,General Technology - Machine Tool Technology, First Year Experience Requirement, EGR-110
+1029,General Technology - Machine Tool Technology, First Year Experience Requirement, IDS-109
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, IET-223
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-101
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-111
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-112
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-120
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-143
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-175
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-250
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-251
+1029,General Technology - Machine Tool Technology, Primary Technical Specialty Requirements, MTT-253
+1030,General Technology - Marine Engineering Technology, GenEd Requirements, ENG-101
+1030,General Technology - Marine Engineering Technology, GenEd requirements, MAT-170
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, EGT-106
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IET-223
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-104
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-106
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-124
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-132
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-133
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-140
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-151
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-160
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-161
+1030,General Technology - Marine Engineering Technology, Primary Technical Specialty Requirements, IMT-163
+1030,General Technology - Marine Engineering Technology, Secondary Technical Specialty Requirements, ACR-106
+1030,General Technology - Marine Engineering Technology, Secondary Technical Specialty Requirements, ACR-108
+1030,General Technology - Marine Engineering Technology, Secondary Technical Specialty Requirements, ACR-109
+1030,General Technology - Marine Engineering Technology, Secondary Technical Specialty Requirements, MTT-111
+1030,General Technology - Marine Engineering Technology, Secondary Technical Specialty Requirements, WLD-111
+1032,General Technology - Mechatronics, GenEd requirements, MAT-170
+1032,General Technology - Mechatronics, Primary Technical Specialty, AMT-105
+1032,General Technology - Mechatronics, Primary Technical Specialty, AMT-205
+1032,General Technology - Mechatronics, Primary Technical Specialty, EEM-221
+1032,General Technology - Mechatronics, Primary Technical Specialty, EEM-251
+1032,General Technology - Mechatronics, Primary Technical Specialty, EEM-252
+1032,General Technology - Mechatronics, Primary Technical Specialty, EET-113
+1032,General Technology - Mechatronics, Primary Technical Specialty, EIT-110
+1032,General Technology - Mechatronics, Primary Technical Specialty, EIT-244
+1032,General Technology - Mechatronics, Primary Technical Specialty, IMT-132
+1032,General Technology - Mechatronics, Primary Technical Specialty, IMT-133
+1032,General Technology - Mechatronics, Primary Technical Specialty, IMT-161
+1032,General Technology - Mechatronics, Secondary Technical Specialty, EEM-107
+1032,General Technology - Mechatronics, Secondary Technical Specialty, EEM-151
+1032,General Technology - Mechatronics, Secondary Technical Specialty, EGR-104
+1032,General Technology - Mechatronics, Secondary Technical Specialty, IMT-104
+1032,General Technology - Mechatronics, Secondary Technical Specialty, IMT-163
+1032,General Technology - Mechatronics, Communication, ENG-101
+1032,General Technology - Mechatronics, Communication, SPC-205
+1032,General Technology - Mechatronics, General, ART-105
+1032,General Technology - Mechatronics, General, ART-107
+1032,General Technology - Mechatronics, General, ART-108
+1032,General Technology - Mechatronics, General, ART-210
+1032,General Technology - Mechatronics, General, BIO-211
+1032,General Technology - Mechatronics, General, CHM-110
+1032,General Technology - Mechatronics, General, ENG-102
+1032,General Technology - Mechatronics, General, ENG-260
+1032,General Technology - Mechatronics, General, IDS-109
+1032,General Technology - Mechatronics, General, SPC-209
+1032,General Technology - Mechatronics, General, THE-101
+1034,General Technology - Welding, GenEd Requirements, ENG-101
+1034,General Technology - Welding, Primary Technical Specialty - Shielded Metal Arc Concentration Group, WLD-111
+1034,General Technology - Welding, Primary Technical Specialty - Shielded Metal Arc Concentration Group, WLD-114
+1034,General Technology - Welding, Primary Technical Specialty - Shielded Metal Arc Concentration Group, WLD-145
+1034,General Technology - Welding, Primary Technical Specialty - Shielded Metal Arc Concentration Group, WLD-170
+1034,General Technology - Welding, Primary Technical Specialty - Shielded Metal Arc Concentration Group, WLD-226
+1034,General Technology - Welding, Primary Technical Specialty - Shielded Metal Arc Concentration Group, WLD-222
+1034,General Technology - Welding, Primary Technical Specialty - Shielded Metal Arc Concentration Group, WLD-225
+1034,General Technology - Welding, Primary Technical Specialty - Gas Metal Arc & Flux Cored Arc Concentration Group, WLD-118
+1034,General Technology - Welding, Primary Technical Specialty - Gas Metal Arc & Flux Cored Arc Concentration Group, WLD-119
+1034,General Technology - Welding, Primary Technical Specialty - Gas Metal Arc & Flux Cored Arc Concentration Group, WLD-120
+1034,General Technology - Welding, Primary Technical Specialty - Gas Metal Arc & Flux Cored Arc Concentration Group, WLD-123
+1034,General Technology - Welding, Primary Technical Specialty - Gas Metal Arc & Flux Cored Arc Concentration Group, WLD-232
+1034,General Technology - Welding, Primary Technical Specialty - Gas Metal Arc & Flux Cored Arc Concentration Group, WLD-150
+1034,General Technology - Welding, Primary Technical Specialty - Gas Metal Arc & Flux Cored Arc Concentration Group, WLD-231
+1034,General Technology - Welding, Primary Technical Specialty - Gas Tungsten Arc Concentration, WLD-132
+1034,General Technology - Welding, Primary Technical Specialty - Gas Tungsten Arc Concentration, WLD-133
+1034,General Technology - Welding, Primary Technical Specialty - Gas Tungsten Arc Concentration, WLD-137
+1034,General Technology - Welding, Primary Technical Specialty - Gas Tungsten Arc Concentration, WLD-152
+1034,General Technology - Welding, Primary Technical Specialty - Gas Tungsten Arc Concentration, WLD-228
+1034,General Technology - Welding, Primary Technical Specialty - Gas Tungsten Arc Concentration, WLD-229
+1034,General Technology - Welding, Additional Requirements, WLD-110
+1034,General Technology - Welding, Additional Requirements, WLD-127
+1034,General Technology - Welding, Additional Requirements, WLD-141
+1034,General Technology - Welding, Additional Requirements, WLD-201
+1034,General Technology - Welding, Additional Requirements, WLD-203
+1037,Horticulture Technology, GenEd Requirements, ENG-101
+1037,Horticulture Technology, GenEd Requirements, IDS-109
+1037,Horticulture Technology, Major Requirements, HRT-106
+1037,Horticulture Technology, Major Requirements, HRT-107
+1037,Horticulture Technology, Major Requirements, HRT-110
+1037,Horticulture Technology, Major Requirements, HRT-121
+1037,Horticulture Technology, Major Requirements, HRT-125
+1037,Horticulture Technology, Major Requirements, HRT-139
+1037,Horticulture Technology, Major Requirements, HRT-144
+1037,Horticulture Technology, Major Requirements, HRT-171
+1037,Horticulture Technology, Major Requirements, HRT-212
+1037,Horticulture Technology, Major Requirements, HRT-240
+1044,Media Arts Production - Film Production, GenEd Requirements, ART-101
+1044,Media Arts Production - Film Production, GenEd Requirements, ART-105
+1044,Media Arts Production - Film Production, GenEd Requirements, ENG-101
+1044,Media Arts Production - Film Production, Major Requirements, FLM-152
+1044,Media Arts Production - Film Production, Major Requirements, FLM-153
+1044,Media Arts Production - Film Production, Major Requirements, FLM-155
+1044,Media Arts Production - Film Production, Major Requirements, FLM-156
+1044,Media Arts Production - Film Production, Major Requirements, FLM-157
+1044,Media Arts Production - Film Production, Major Requirements, FLM-269
+1044,Media Arts Production - Film Production, Major Requirements, MAP-101
+1044,Media Arts Production - Film Production, Major Requirements, MAP-110
+1044,Media Arts Production - Film Production, Major Requirements, MAP-120
+1044,Media Arts Production - Film Production, Major Requirements, MAP-126
+1044,Media Arts Production - Film Production, Major Requirements, MAP-130
+1044,Media Arts Production - Film Production, Major Requirements, MAP-140
+1044,Media Arts Production - Film Production, Major Requirements, MAP-243
+1044,Media Arts Production - Film Production, Major Requirements, MAP-265
+1044,Media Arts Production - Film Production, Major Requirements, MAP-280
+1045,Media Arts Production - Post Production, GenEd Requirements, ART-101
+1045,Media Arts Production - Post Production, GenEd Requirements, ART-105
+1045,Media Arts Production - Post Production, GenEd Requirements, ENG-101
+1045,Media Arts Production - Post Production, Major Requirements, FLM-138
+1045,Media Arts Production - Post Production, Major Requirements, FLM-238
+1045,Media Arts Production - Post Production, Major Requirements, FLM-239
+1045,Media Arts Production - Post Production, Major Requirements, MAP-101
+1045,Media Arts Production - Post Production, Major Requirements, MAP-110
+1045,Media Arts Production - Post Production, Major Requirements, MAP-112
+1045,Media Arts Production - Post Production, Major Requirements, MAP-120
+1045,Media Arts Production - Post Production, Major Requirements, MAP-130
+1045,Media Arts Production - Post Production, Major Requirements, MAP-140
+1045,Media Arts Production - Post Production, Major Requirements, MAP-243
+1045,Media Arts Production - Post Production, Major Requirements, MAP-190
+1045,Media Arts Production - Post Production, Major Requirements, MAP-207
+1045,Media Arts Production - Post Production, Major Requirements, MAP-210
+1045,Media Arts Production - Post Production, Major Requirements, MAP-212
+1045,Media Arts Production - Post Production, Major Requirements, MAP-265
+1045,Media Arts Production - Post Production, Major Requirements, MAP-280
+1046,Media Arts Production - TV and Media Production, GenEd Requirements, ART-101
+1046,Media Arts Production - TV and Media Production, GenEd Requirements, ART-105
+1046,Media Arts Production - TV and Media Production, GenEd Requirements, ENG-101
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-101
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-104
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-207
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-110
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-112
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-120
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-122
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-130
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-140
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-150
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-210
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-222
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-250
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-271
+1046,Media Arts Production - TV and Media Production, Major Requirements, MAP-272
+1006,Civil Engineering Technology, GenEd Requirements, ENG-101
+1006,Civil Engineering Technology, GenEd requirements, MAT-170
+1006,Civil Engineering Technology, Major Requirements, CET-110
+1006,Civil Engineering Technology, Major Requirements, CET-120
+1006,Civil Engineering Technology, Major Requirements, CET-127
+1006,Civil Engineering Technology, Major Requirements, CET-204
+1006,Civil Engineering Technology, Major Requirements, CET-215
+1006,Civil Engineering Technology, Major Requirements, CET-218
+1006,Civil Engineering Technology, Major Requirements, CET-230
+1006,Civil Engineering Technology, Major Requirements, CET-245
+1006,Civil Engineering Technology, Major Requirements, CET-246
+1006,Civil Engineering Technology, Major Requirements, EGR-110
+1006,Civil Engineering Technology, Major Requirements, EGR-194
+1006,Civil Engineering Technology, Major Requirements, EGR-290
+1006,Civil Engineering Technology, Major Requirements, EGT-151
+1006,Civil Engineering Technology, Major Requirements, EGT-152
+1006,Civil Engineering Technology, Major Requirements, EGT-257
+1020,Electronics Engineering Technology, GenEd Requirements, ENG-101
+1020,Electronics Engineering Technology, GenEd requirements, MAT-170
+1020,Electronics Engineering Technology, Major Requirements, AMT-209
+1020,Electronics Engineering Technology, Major Requirements, EEM-251
+1020,Electronics Engineering Technology, Major Requirements, EEM-252
+1020,Electronics Engineering Technology, Major Requirements, EET-113
+1020,Electronics Engineering Technology, Major Requirements, EET-131
+1020,Electronics Engineering Technology, Major Requirements, EET-145
+1020,Electronics Engineering Technology, Major Requirements, EET-274
+1020,Electronics Engineering Technology, Major Requirements, EGR-104
+1020,Electronics Engineering Technology, Major Requirements, EGR-110
+1020,Electronics Engineering Technology, Major Requirements, EGR-234
+1020,Electronics Engineering Technology, Major Requirements, EGR-255
+1020,Electronics Engineering Technology, Major Requirements, EGR-290
+1020,Electronics Engineering Technology, Major Requirements, EGT-151
+1020,Electronics Engineering Technology, Major Requirements, MET-233
+1020,Electronics Engineering Technology, Major Requirements, MET-237
+1026,General Technology - Engineering Design Graphics, GenEd Requirements, PSY-201
+1026,General Technology - Engineering Design Graphics, GenEd Requirements, IDS-109
+1026,General Technology - Engineering Design Graphics, GenEd requirements, MAT-170
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGR-275
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-151
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-115
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-130
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-152
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-220
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-251
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-252
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-258
+1026,General Technology - Engineering Design Graphics, Primary Technical Specialty Requirements, EGT-270
+1026,General Technology - Engineering Design Graphics, Secondary Technical Specialty Requirements, AET-111
+1026,General Technology - Engineering Design Graphics, Secondary Technical Specialty Requirements, AET-221
+1026,General Technology - Engineering Design Graphics, Secondary Technical Specialty Requirements, EGT-172
+1026,General Technology - Engineering Design Graphics, Secondary Technical Specialty Requirements, EGT-265
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Architectural Drafting Optionn, AET-202
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Architectural Drafting Optionn, CET-120
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Civil Drafting Option, CET-204
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Civil Drafting Option, EGT-257
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Electrical Drafting Option, EGR-104
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Electrical Drafting Option, EET-113
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Mechanical Drafting Option, EGR-170
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Mechanical Drafting Option, EGR-175
+1026,General Technology - Engineering Design Graphics, *Additional Requirements - Mechanical Drafting Option, EGT-245
+1026,General Technology - Engineering Design Graphics, Communication, ENG-101
+1026,General Technology - Engineering Design Graphics, Communication, SPC-205
+1043,Mechanical Engineering Technology, GenEd Requirements, ENG-101
+1043,Mechanical Engineering Technology, GenEd requirements, MAT-170
+1043,Mechanical Engineering Technology, Major Requirements, EEM-251
+1043,Mechanical Engineering Technology, Major Requirements, EET-113
+1043,Mechanical Engineering Technology, Major Requirements, EET-131
+1043,Mechanical Engineering Technology, Major Requirements, EET-145
+1043,Mechanical Engineering Technology, Major Requirements, EGR-104
+1043,Mechanical Engineering Technology, Major Requirements, EGR-110
+1043,Mechanical Engineering Technology, Major Requirements, EGR-170
+1043,Mechanical Engineering Technology, Major Requirements, EGR-175
+1043,Mechanical Engineering Technology, Major Requirements, EGR-194
+1043,Mechanical Engineering Technology, Major Requirements, EGR-234
+1043,Mechanical Engineering Technology, Major Requirements, EGR-255
+1043,Mechanical Engineering Technology, Major Requirements, EGR-290
+1043,Mechanical Engineering Technology, Major Requirements, EGT-130
+1043,Mechanical Engineering Technology, Major Requirements, EGT-151
+1043,Mechanical Engineering Technology, Major Requirements, MET-233
+1043,Mechanical Engineering Technology, Major Requirements, MET-237
+1016,Dental Hygiene, GenEd Curriculum, ENG-101
+1016,Dental Hygiene, GenEd Curriculum, PSY-201
+1016,Dental Hygiene, Major Requirements, AHS-113
+1016,Dental Hygiene, Major Requirements, BIO-210
+1016,Dental Hygiene, Major Requirements, BIO-211
+1016,Dental Hygiene, Major Requirements, BIO-225
+1016,Dental Hygiene, Major Requirements, CHM-105
+1016,Dental Hygiene, Major Requirements, DHG-115
+1016,Dental Hygiene, Major Requirements, DHG-121
+1016,Dental Hygiene, Major Requirements, DHG-125
+1016,Dental Hygiene, Major Requirements, DHG-140
+1016,Dental Hygiene, Major Requirements, DHG-141
+1016,Dental Hygiene, Major Requirements, DHG-143
+1016,Dental Hygiene, Major Requirements, DHG-154
+1016,Dental Hygiene, Major Requirements, DHG-165
+1016,Dental Hygiene, Major Requirements, DHG-175
+1016,Dental Hygiene, Major Requirements, DHG-230
+1016,Dental Hygiene, Major Requirements, DHG-231
+1016,Dental Hygiene, Major Requirements, DHG-239
+1016,Dental Hygiene, Major Requirements, DHG-241
+1016,Dental Hygiene, Major Requirements, DHG-243
+1016,Dental Hygiene, Major Requirements, DHG-255
+1016,Dental Hygiene, Major Requirements, DHG-265
+1016,Dental Hygiene, Major Requirements, SOC-101
+1021,Emergency Medical Technology, GenEd Requirements, ENG-101
+1021,Emergency Medical Technology, GenEd Requirements, IDS-109
+1021,Emergency Medical Technology, GenEd Requirements, PSY-201
+1021,Emergency Medical Technology, Major Requirements, BIO-210
+1021,Emergency Medical Technology, Major Requirements, BIO-211
+1021,Emergency Medical Technology, Major Requirements, EMS-102
+1021,Emergency Medical Technology, Major Requirements, EMS-103
+1021,Emergency Medical Technology, Major Requirements, EMS-107
+1021,Emergency Medical Technology, Major Requirements, EMS-108
+1021,Emergency Medical Technology, Major Requirements, EMS-115
+1021,Emergency Medical Technology, Major Requirements, EMS-116
+1021,Emergency Medical Technology, Major Requirements, EMS-117
+1021,Emergency Medical Technology, Major Requirements, EMS-120
+1021,Emergency Medical Technology, Major Requirements, EMS-211
+1021,Emergency Medical Technology, Major Requirements, EMS-212
+1021,Emergency Medical Technology, Major Requirements, EMS-214
+1021,Emergency Medical Technology, Major Requirements, EMS-217
+1021,Emergency Medical Technology, Major Requirements, EMS-219
+1021,Emergency Medical Technology, Major Requirements, EMS-220
+1021,Emergency Medical Technology, Major Requirements, EMS-221
+1021,Emergency Medical Technology, Major Requirements, EMS-222
+1021,Emergency Medical Technology, Major Requirements, EMS-233
+1021,Emergency Medical Technology, Major Requirements, EMS-234
+1021,Emergency Medical Technology, Major Requirements, EMS-235
+1021,Emergency Medical Technology, Major Requirements, EMS-236
+1027,General Technology - Expanded Duty Dental Assisting, GenEd Requirements, ENG-101
+1027,General Technology - Expanded Duty Dental Assisting, GenEd Requirements, IDS-109
+1027,General Technology - Expanded Duty Dental Assisting, GenEd Requirements, PSY-201
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-113
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-114
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-115
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-118
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-121
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-122
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-123
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-127
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-154
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-177
+1027,General Technology - Expanded Duty Dental Assisting, Major Requirements, DAT-185
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, BIO-210
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, BIO-211
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, ECO-210
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, MGT-101
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, MGT-120
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, MGT-270
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, MKT-101
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, PSY-203
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, SOC-101
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, SPA-101
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, SPC-205
+1027,General Technology - Expanded Duty Dental Assisting, Other Requirements, SPC-209
+1033,General Technology - Medical Assisting, General Education Requirements, ENG-101
+1033,General Technology - Medical Assisting, General Education Requirements, MAT-120
+1033,General Technology - Medical Assisting, General Education Requirements, PSY-201
+1033,General Technology - Medical Assisting, General Education Requirements, SPC-205
+1033,General Technology - Medical Assisting, General Education Requirements, SPC-209
+1033,General Technology - Medical Assisting, Major Requirements, AHS-104
+1033,General Technology - Medical Assisting, Major Requirements, AHS-121
+1033,General Technology - Medical Assisting, Major Requirements, AHS-142
+1033,General Technology - Medical Assisting, Major Requirements, AHS-170
+1033,General Technology - Medical Assisting, Major Requirements, MED-103
+1033,General Technology - Medical Assisting, Major Requirements, MED-122
+1033,General Technology - Medical Assisting, Major Requirements, MED-125
+1033,General Technology - Medical Assisting, Major Requirements, MED-131
+1033,General Technology - Medical Assisting, Major Requirements, MED-134
+1033,General Technology - Medical Assisting, Major Requirements, MED-135
+1033,General Technology - Medical Assisting, Major Requirements, MED-136
+1033,General Technology - Medical Assisting, Major Requirements, MED-141
+1033,General Technology - Medical Assisting, Major Requirements, MED-142
+1033,General Technology - Medical Assisting, Major Requirements, MED-151
+1033,General Technology - Medical Assisting, Major Requirements, MED-152
+1033,General Technology - Medical Assisting, Other Requirements, BIO-210
+1033,General Technology - Medical Assisting, Other Requirements, BIO-211
+1033,General Technology - Medical Assisting, Other Requirements, BUS-101
+1033,General Technology - Medical Assisting, Other Requirements, MGT-101
+1033,General Technology - Medical Assisting, Other Requirements, MGT-120
+1033,General Technology - Medical Assisting, Other Requirements, MKT-101
+1033,General Technology - Medical Assisting, Other Requirements, PSY-212
+1033,General Technology - Medical Assisting, Other Requirements, PSY-203
+1033,General Technology - Medical Assisting, Other Requirements, SOC-101
+1039,Human Services, GenEd Requirements, ENG-101
+1039,Human Services, GenEd Requirements, IDS-109
+1039,Human Services, GenEd Requirements, PSY-201
+1039,Human Services, Major Requirements, HUS-101
+1039,Human Services, Major Requirements, HUS-102
+1039,Human Services, Major Requirements, HUS-116
+1039,Human Services, Major Requirements, HUS-208
+1039,Human Services, Major Requirements, HUS-209
+1039,Human Services, Major Requirements, HUS-220
+1039,Human Services, Major Requirements, HUS-230
+1039,Human Services, Major Requirements, HUS-231
+1039,Human Services, Major Requirements, HUS-235
+1039,Human Services, Major Requirements, HUS-250
+1039,Human Services, Major Requirements, HUS-270
+1047,Medical Laboratory Technology, GenEd Requirements, ENG-101
+1047,Medical Laboratory Technology, GenEd Requirements, CHM-110
+1047,Medical Laboratory Technology, GenEd Requirements, PSY-201
+1047,Medical Laboratory Technology, Major Requirements, AHS-104
+1047,Medical Laboratory Technology, Major Requirements, AHS-142
+1047,Medical Laboratory Technology, Major Requirements, BIO-112
+1047,Medical Laboratory Technology, Major Requirements, MLT-101
+1047,Medical Laboratory Technology, Major Requirements, MLT-103
+1047,Medical Laboratory Technology, Major Requirements, MLT-106
+1047,Medical Laboratory Technology, Major Requirements, MLT-107
+1047,Medical Laboratory Technology, Major Requirements, MLT-109
+1047,Medical Laboratory Technology, Major Requirements, MLT-111
+1047,Medical Laboratory Technology, Major Requirements, MLT-115
+1047,Medical Laboratory Technology, Major Requirements, MLT-116
+1047,Medical Laboratory Technology, Major Requirements, MLT-135
+1047,Medical Laboratory Technology, Major Requirements, MLT-206
+1047,Medical Laboratory Technology, Major Requirements, MLT-207
+1047,Medical Laboratory Technology, Major Requirements, MLT-211
+1047,Medical Laboratory Technology, Major Requirements, MLT-212
+1047,Medical Laboratory Technology, Major Requirements, MLT-216
+1047,Medical Laboratory Technology, Major Requirements, MLT-271
+1047,Medical Laboratory Technology, Major Requirements, MLT-272
+1047,Medical Laboratory Technology, Major Requirements, MLT-273
+1047,Medical Laboratory Technology, Major Requirements, MLT-274
+1049,Occupational Therapy Assistant, GenEd Requirements, ENG-101
+1049,Occupational Therapy Assistant, GenEd Requirements, ENG-102
+1049,Occupational Therapy Assistant, GenEd Requirements, PHI-101
+1049,Occupational Therapy Assistant, GenEd Requirements, PSY-201
+1049,Occupational Therapy Assistant, Major Requirements, AHS-104
+1049,Occupational Therapy Assistant, Major Requirements, BIO-210
+1049,Occupational Therapy Assistant, Major Requirements, BIO-211
+1049,Occupational Therapy Assistant, Major Requirements, OTA-101
+1049,Occupational Therapy Assistant, Major Requirements, OTA-102
+1049,Occupational Therapy Assistant, Major Requirements, OTA-105
+1049,Occupational Therapy Assistant, Major Requirements, OTA-142
+1049,Occupational Therapy Assistant, Major Requirements, OTA-144
+1049,Occupational Therapy Assistant, Major Requirements, OTA-155
+1049,Occupational Therapy Assistant, Major Requirements, OTA-159
+1049,Occupational Therapy Assistant, Major Requirements, OTA-161
+1049,Occupational Therapy Assistant, Major Requirements, OTA-164
+1049,Occupational Therapy Assistant, Major Requirements, OTA-176
+1049,Occupational Therapy Assistant, Major Requirements, OTA-203
+1049,Occupational Therapy Assistant, Major Requirements, OTA-245
+1049,Occupational Therapy Assistant, Major Requirements, OTA-262
+1049,Occupational Therapy Assistant, Major Requirements, OTA-264
+1049,Occupational Therapy Assistant, Major Requirements, PSY-203
+1049,Occupational Therapy Assistant, Major Requirements, SPC-205
+1049,Occupational Therapy Assistant, Major Requirements, SPC-209
+1051,Physical Therapist Assistant, GenEd Requirements, BIO-210
+1051,Physical Therapist Assistant, GenEd Requirements, ENG-101
+1051,Physical Therapist Assistant, GenEd Requirements, PSY-201
+1051,Physical Therapist Assistant, Major Requirements, BIO-211
+1051,Physical Therapist Assistant, Major Requirements, PTH-101
+1051,Physical Therapist Assistant, Major Requirements, PTH-118
+1051,Physical Therapist Assistant, Major Requirements, PTH-205
+1051,Physical Therapist Assistant, Major Requirements, PTH-210
+1051,Physical Therapist Assistant, Major Requirements, PTH-221
+1051,Physical Therapist Assistant, Major Requirements, PTH-222
+1051,Physical Therapist Assistant, Major Requirements, PTH-235
+1051,Physical Therapist Assistant, Major Requirements, PTH-240
+1051,Physical Therapist Assistant, Major Requirements, PTH-242
+1051,Physical Therapist Assistant, Major Requirements, PTH-244
+1051,Physical Therapist Assistant, Major Requirements, PTH-250
+1051,Physical Therapist Assistant, Major Requirements, PTH-252
+1051,Physical Therapist Assistant, Major Requirements, PTH-266
+1051,Physical Therapist Assistant, Major Requirements, PTH-275
+1051,Physical Therapist Assistant, Major Requirements, PTH-276
+1052,Radiologic Technology, GenEd Requirements, ENG-101
+1052,Radiologic Technology, GenEd Requirements, PSY-201
+1052,Radiologic Technology, Major Requirements, BIO-210
+1052,Radiologic Technology, Major Requirements, BIO-211
+1052,Radiologic Technology, Major Requirements, RAD-101
+1052,Radiologic Technology, Major Requirements, RAD-102
+1052,Radiologic Technology, Major Requirements, RAD-121
+1052,Radiologic Technology, Major Requirements, RAD-127
+1052,Radiologic Technology, Major Requirements, RAD-128
+1052,Radiologic Technology, Major Requirements, RAD-129
+1052,Radiologic Technology, Major Requirements, RAD-139
+1052,Radiologic Technology, Major Requirements, RAD-150
+1052,Radiologic Technology, Major Requirements, RAD-155
+1052,Radiologic Technology, Major Requirements, RAD-165
+1052,Radiologic Technology, Major Requirements, RAD-180
+1052,Radiologic Technology, Major Requirements, RAD-181
+1052,Radiologic Technology, Major Requirements, RAD-201
+1052,Radiologic Technology, Major Requirements, RAD-205
+1052,Radiologic Technology, Major Requirements, RAD-225
+1052,Radiologic Technology, Major Requirements, RAD-230
+1052,Radiologic Technology, Major Requirements, RAD-235
+1052,Radiologic Technology, Major Requirements, RAD-236
+1052,Radiologic Technology, Major Requirements, RAD-257
+1052,Radiologic Technology, Major Requirements, RAD-267
+1052,Radiologic Technology, Major Requirements, RAD-280
+1052,Radiologic Technology, Major Requirements, RAD-281
+1053,Respiratory Care, GenEd Requirements, BIO-210
+1053,Respiratory Care, GenEd Requirements, BIO-211
+1053,Respiratory Care, GenEd Requirements, ENG-101
+1053,Respiratory Care, GenEd Requirements, PSY-201
+1053,Respiratory Care, Major Requirements, AHS-104
+1053,Respiratory Care, Major Requirements, BIO-225
+1053,Respiratory Care, Major Requirements, RES-110
+1053,Respiratory Care, Major Requirements, RES-111
+1053,Respiratory Care, Major Requirements, RES-112
+1053,Respiratory Care, Major Requirements, RES-121
+1053,Respiratory Care, Major Requirements, RES-131
+1053,Respiratory Care, Major Requirements, RES-140
+1053,Respiratory Care, Major Requirements, RES-142
+1053,Respiratory Care, Major Requirements, RES-150
+1053,Respiratory Care, Major Requirements, RES-152
+1053,Respiratory Care, Major Requirements, RES-205
+1053,Respiratory Care, Major Requirements, RES-210
+1053,Respiratory Care, Major Requirements, RES-220
+1053,Respiratory Care, Major Requirements, RES-235
+1053,Respiratory Care, Major Requirements, RES-243
+1053,Respiratory Care, Major Requirements, RES-246
+1053,Respiratory Care, Major Requirements, RES-247
+1053,Respiratory Care, Major Requirements, RES-249
+1053,Respiratory Care, Major Requirements, RES-253
+1053,Respiratory Care, Major Requirements, RES-254
+1054,Veterinary Technology, GenEd Requirements, BIO-101
+1054,Veterinary Technology, GenEd Requirements, ENG-101
+1054,Veterinary Technology, GenEd Requirements, PHI-110
+1054,Veterinary Technology, GenEd Requirements, PSY-201
+1054,Veterinary Technology, Major Requirements, BIO-225
+1054,Veterinary Technology, Major Requirements, VET-101
+1054,Veterinary Technology, Major Requirements, VET-104
+1054,Veterinary Technology, Major Requirements, VET-105
+1054,Veterinary Technology, Major Requirements, VET-112
+1054,Veterinary Technology, Major Requirements, VET-117
+1054,Veterinary Technology, Major Requirements, VET-119
+1054,Veterinary Technology, Major Requirements, VET-140
+1054,Veterinary Technology, Major Requirements, VET-142
+1054,Veterinary Technology, Major Requirements, VET-152
+1054,Veterinary Technology, Major Requirements, VET-160
+1054,Veterinary Technology, Major Requirements, VET-170
+1054,Veterinary Technology, Major Requirements, VET-203
+1054,Veterinary Technology, Major Requirements, VET-207
+1054,Veterinary Technology, Major Requirements, VET-216
+1054,Veterinary Technology, Major Requirements, VET-240
+1054,Veterinary Technology, Major Requirements, VET-250
+1054,Veterinary Technology, Major Requirements, VET-260
+1054,Veterinary Technology, Major Requirements, VET-280
